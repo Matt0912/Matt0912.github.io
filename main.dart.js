@@ -59071,7 +59071,7 @@ A.E2.prototype={}
 A.vJ.prototype={
 gex(){return A.a([this.a],t.f)}}
 A.CY.prototype={
-L(a){var s="holly.png",r=null,q=A.aay(s,r),p=A.a([new A.vH(0,A.aay(s,r),r)],t.E)
+L(a){var s="assets/images/holly.png",r=null,q=A.aay(s,r),p=A.a([new A.vH(0,A.aay(s,r),r)],t.E)
 return new A.vL(new A.rm(new A.vH(3,q,r),B.JU,p,0,B.vd,B.cO,new A.KP(r,r,1/0,56),r),A.adj(new A.U1(),t.pa,t.sl),B.yo,r)}}
 A.U1.prototype={
 $2(a,b){var s,r,q,p,o,n=null
@@ -59117,7 +59117,7 @@ m=A.iX(q,10,q)
 s=A.abe(n.b,B.IL,q,q)
 if(r.e){n=n.e
 n=r.f?A.ab_(B.yt,q,q,"Votes: "+B.f.i(n),B.k):A.ab_(B.cO,B.p,q,"Votes: "+B.f.i(n),B.i)}else n=A.ab_(B.cO,B.p,r.d,"Vote",B.i)
-return A.iw(q,A.adH(A.a([o,m,new A.hP(B.zc,new A.hl(B.ke,q,q,s,q),q),B.FD,n,A.iX(q,20,q),A.aay("tesco_logo.png",100),A.iX(q,5,q)],t.E),B.fm),q,q,new A.eZ(B.i,q,q,p,q,q,B.aJ),q,q,B.zb,q)}}
+return A.iw(q,A.adH(A.a([o,m,new A.hP(B.zc,new A.hl(B.ke,q,q,s,q),q),B.FD,n,A.iX(q,20,q),A.aay("assets/images/tesco_logo.png",100),A.iX(q,5,q)],t.E),B.fm),q,q,new A.eZ(B.i,q,q,p,q,q,B.aJ),q,q,B.zb,q)}}
 A.m7.prototype={
 L(a){throw A.c(A.a7("implemented internally"))},
 b8(a){return new A.K2(A.aN(t.ai),null,this,B.A)}}
