@@ -1,14 +1,24 @@
 {
-    "name": "food_poll_website",
-    "short_name": "food_poll_website",
+    "name": "Meal Deal Championship",
+    "short_name": "MDC",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Public vote for your favourite meal deals",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/mdc_logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
         {
             "src": "icons/Icon-192.png",
             "sizes": "192x192",
